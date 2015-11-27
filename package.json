@@ -15,5 +15,11 @@
     "mocha": "^2.3.3",
     "webpack": "^1.12.3",
     "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0",
+    "sass": "^0.5.0"
   }
 }
